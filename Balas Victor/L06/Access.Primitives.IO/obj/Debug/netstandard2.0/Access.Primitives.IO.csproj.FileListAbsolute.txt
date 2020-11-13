@@ -1,0 +1,9 @@
+C:\Users\Bogdan\Desktop\L06\Access.Primitives.IO\bin\Debug\netstandard2.0\Access.Primitives.IO.deps.json
+C:\Users\Bogdan\Desktop\L06\Access.Primitives.IO\bin\Debug\netstandard2.0\Access.Primitives.IO.dll
+C:\Users\Bogdan\Desktop\L06\Access.Primitives.IO\bin\Debug\netstandard2.0\Access.Primitives.IO.pdb
+C:\Users\Bogdan\Desktop\L06\Access.Primitives.IO\obj\Debug\netstandard2.0\Access.Primitives.IO.csprojAssemblyReference.cache
+C:\Users\Bogdan\Desktop\L06\Access.Primitives.IO\obj\Debug\netstandard2.0\Access.Primitives.IO.AssemblyInfoInputs.cache
+C:\Users\Bogdan\Desktop\L06\Access.Primitives.IO\obj\Debug\netstandard2.0\Access.Primitives.IO.AssemblyInfo.cs
+C:\Users\Bogdan\Desktop\L06\Access.Primitives.IO\obj\Debug\netstandard2.0\Access.Primitives.IO.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\L06\Access.Primitives.IO\obj\Debug\netstandard2.0\Access.Primitives.IO.dll
+C:\Users\Bogdan\Desktop\L06\Access.Primitives.IO\obj\Debug\netstandard2.0\Access.Primitives.IO.pdb
