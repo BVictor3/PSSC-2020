@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>8.0</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\GrainInterfaces\GrainInterfaces.csproj" />
+    <ProjectReference Include="..\..\Grains\Grains.csproj" />
+    <ProjectReference Include="..\..\Primitives\Access.Primitives.IO\Access.Primitives.IO.csproj" />
+    <ProjectReference Include="..\StackUnderflow.Schema\StackUnderflow.DatabaseModel.csproj" />
+    <PackageReference Include="CSharp.Choices" Version="1.1.0" />
+    <PackageReference Include="NEST" Version="7.10.1" />
+  </ItemGroup>
+
+</Project>

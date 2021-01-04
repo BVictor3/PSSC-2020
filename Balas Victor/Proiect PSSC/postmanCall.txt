@@ -1,0 +1,11 @@
+{
+    "PostID": 1,
+    "TenantId": 2,
+    "Title": "How to use LanguageExt",
+    "PostText": "I want to implement a C# project usinglanguageExt",
+    "PostTag":"C#, VS"
+}
+
+https://localhost:44386/question/postquestion
+
+db: Data Source=DESKTOP-P9G79UM\SQLEXPRESS;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=60;Encrypt=False;TrustServerCertificate=False
